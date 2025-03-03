@@ -14,6 +14,8 @@
 
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![LeetCode Stats](https://leetcard.jacoblin.cool/geekrextheme=dark&font=Montserrat&ext=heatmap)
+
 
 ## 🔗 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/prajjwalnag)
