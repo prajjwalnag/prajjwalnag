@@ -14,7 +14,7 @@
 
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![LeetCode Stats](https://leetcard.jacoblin.cool/geekrextheme=dark&font=Montserrat&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/<geekrex>theme=dark&font=Montserrat&ext=heatmap)
 
 
 ## 🔗 Connect with me
