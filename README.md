@@ -5,7 +5,6 @@
 - 🌱 I’m learning **System Design & FastAPI**
 - 👯 I’m open to collaborate on **open-source projects**
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/prajjwalnag)
-- ⚡ Fun fact: I love building projects that solve real-world problems!
 
 ## 🛠️ Tech Stack
 - 🔹 Languages: Python, JavaScript, C++
