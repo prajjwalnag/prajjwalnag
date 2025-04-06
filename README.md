@@ -10,8 +10,8 @@
 ## 🛠️ Tech Stack
 - **Languages**: Python, JavaScript, C++
 - **Frameworks**: FastAPI, React, Flask
-- **Tools & Platforms**: Docker, Git, Postman, GCP, AWS (Free Tier), Pinata, IPFS  
-- **Blockchain**: Solidity (Basics), Smart Contracts, WalletConnect, IPFS integration  
+- **Tools & Platforms**: Docker, Git, Postman, GCP, AWS , IPFS  
+- **Blockchain**: Solidity (Basics), Smart Contracts, WalletConnect, IPFS integration,Pinata  
 - **Specialties**: LLM apps, RAG systems, OCR pipelines, DevOps, Containerization, Token-based Systems
 
 ## 🧠 Currently Exploring
