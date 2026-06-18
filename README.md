@@ -1,106 +1,165 @@
-# Hi, I'm Prajjwal Nag 👋
+<div align="center">
 
-## AI Engineer | Automation Developer | Full-Stack Builder
+# ⚡ PRAJJWAL NAG
 
-I build production-ready AI systems, intelligent automations, and scalable software solutions for startups and businesses.
+### Building AI Agents, Automations & Data Systems That Actually Ship
 
-My work focuses on turning repetitive business processes into automated workflows using AI, custom integrations, web scraping, and modern software engineering practices.
-
----
-
-## 🚀 What I Do
-
-### AI & LLM Engineering
-- AI Agents
-- RAG (Retrieval-Augmented Generation)
-- Knowledge Base Chatbots
-- Multi-Agent Systems
-- OpenAI & Claude Integrations
-- Local LLM Deployments (Ollama)
-
-### Workflow Automation
-- n8n Automation
-- CRM Integrations
-- Lead Generation Systems
-- Email & Outreach Automation
-- Business Process Automation
-- API Integrations
-
-### Data Extraction
-- Web Scraping
-- Browser Automation
-- OCR Systems
-- Data Pipelines
-- Cloudflare Bypass Research
-- Structured Data Extraction
-
-### Full-Stack Development
-- Next.js
-- React
-- TypeScript
-- Python
-- FastAPI
-- PostgreSQL
-- Docker
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFAA&center=true&vCenter=true&width=700&lines=AI+Engineer;Automation+Architect;Web+Scraping+Specialist;Full+Stack+Developer;Building+the+Future+One+Workflow+at+a+Time" />
 
 ---
 
-## 🛠 Tech Stack
+```bash
+> whoami
 
-### Languages
-Python • TypeScript • JavaScript • Go • Rust • Solidity
+Prajjwal Nag
+┣━━ AI Engineer
+┣━━ Automation Developer
+┣━━ Web Scraping Specialist
+┣━━ Full Stack Builder
+┗━━ Turning business chaos into automated systems
+```
 
-### Backend
-FastAPI • Flask • Django • Node.js • Express • NestJS
+</div>
 
-### Frontend
-React • Next.js • Vue • Svelte
+---
+
+## 🧠 Current Focus
+
+```python
+focus = {
+    "AI Agents": True,
+    "LLM Applications": True,
+    "RAG Systems": True,
+    "n8n Automation": True,
+    "Web Scraping": True,
+    "Lead Generation": True,
+    "Building Cool Stuff": True,
+    "Sleeping Enough": False
+}
+```
+
+---
+
+## ⚙️ Tech Arsenal
 
 ### AI & Machine Learning
-OpenAI • Claude • LangChain • LlamaIndex • Ollama • Hugging Face • PyTorch • TensorFlow
 
-### Databases
-PostgreSQL • MongoDB • Redis • Elasticsearch • Pinecone • Weaviate
+![OpenAI](https://img.shields.io/badge/OpenAI-black?style=for-the-badge)
+![Claude](https://img.shields.io/badge/Claude-orange?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-green?style=for-the-badge)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-blue?style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-red?style=for-the-badge)
 
-### DevOps
-Docker • Kubernetes • AWS • GCP • Terraform • GitHub Actions
+### Automation
 
----
+![n8n](https://img.shields.io/badge/n8n-ff6d5a?style=for-the-badge)
+![Zapier](https://img.shields.io/badge/Zapier-orange?style=for-the-badge)
+![Make](https://img.shields.io/badge/Make-purple?style=for-the-badge)
 
-## 🔥 Recent Areas of Focus
+### Development
 
-- AI Agents for business operations
-- RAG systems for internal knowledge retrieval
-- n8n workflow automation
-- Lead generation infrastructure
-- Web scraping at scale
-- CRM integrations
-- Local LLM deployments
-- AI-powered customer support systems
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-green?style=for-the-badge)
 
----
+### Infrastructure
 
-## 📈 Current Mission
-
-Helping businesses save time, reduce manual work, and increase revenue through practical AI systems and automation.
-
-I believe AI should solve real business problems, not just create demos.
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge)
+![GCP](https://img.shields.io/badge/GCP-red?style=for-the-badge)
+![Postgres](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge)
 
 ---
 
-## 🤝 Let's Connect
+## 🚀 What I Build
 
-If you're building something interesting or need help with:
+### 🤖 AI Agents
 
-- AI Agents
-- Workflow Automation
-- RAG Systems
-- Web Scraping
-- Full-Stack Development
-- Custom Business Software
+Autonomous systems that can:
 
-Feel free to reach out.
+- Research
+- Reason
+- Execute tasks
+- Use tools
+- Interact with APIs
+- Generate reports
 
 ---
 
-⭐ Building practical AI systems one automation at a time.
+### 🔄 Business Automation
+
+```mermaid
+graph LR
+
+A[Lead Captured] --> B[CRM]
+B --> C[Qualification]
+C --> D[AI Processing]
+D --> E[Email]
+D --> F[Slack]
+D --> G[Database]
+```
+
+---
+
+### 🕷️ Data Extraction Systems
+
+- Browser Automation
+- Anti-Bot Research
+- Structured Data Collection
+- Lead Enrichment
+- Large Scale Scraping Pipelines
+
+---
+
+### 📚 RAG Systems
+
+Transforming PDFs, Documents, CRMs, Emails and Knowledge Bases into searchable AI assistants.
+
+---
+
+## 📊 Github Stats
+
+```txt
+Lines of code written:       A lot
+Bugs introduced:             Too many
+Bugs fixed:                  Eventually
+Coffee consumed:             Infinite
+Projects abandoned:          Let's not discuss that
+```
+
+---
+
+## 🔥 Philosophy
+
+> Build things that save humans time.
+
+AI should not be a demo.
+
+AI should not be a buzzword.
+
+AI should automate real work.
+
+---
+
+## 🌐 Let's Build Something
+
+```bash
+If your business has:
+    repetitive tasks
+    manual workflows
+    disconnected systems
+    too much copy-paste
+
+Then we should talk.
+```
+
+---
+
+<div align="center">
+
+### ⚡ Automate Everything
+
+*"Anything repetitive is a candidate for automation."*
+
+</div>
